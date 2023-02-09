@@ -1,0 +1,15 @@
+F:\codeP2\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.exe
+F:\codeP2\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.deps.json
+F:\codeP2\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.runtimeconfig.json
+F:\codeP2\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.dll
+F:\codeP2\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.pdb
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.csproj.AssemblyReference.cache
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.AssemblyInfoInputs.cache
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.AssemblyInfo.cs
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.csproj.CoreCompileInputs.cache
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.dll
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\refint\BiggestNumber.dll
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.pdb
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.genruntimeconfig.cache
+F:\codeP2\BiggestNumber\BiggestNumber\obj\Debug\net6.0\ref\BiggestNumber.dll

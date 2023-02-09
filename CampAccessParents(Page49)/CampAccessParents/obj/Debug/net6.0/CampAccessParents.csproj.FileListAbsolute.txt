@@ -1,0 +1,15 @@
+F:\codeP2\CampAccessParents\CampAccessParents\bin\Debug\net6.0\CampAccessParents.exe
+F:\codeP2\CampAccessParents\CampAccessParents\bin\Debug\net6.0\CampAccessParents.deps.json
+F:\codeP2\CampAccessParents\CampAccessParents\bin\Debug\net6.0\CampAccessParents.runtimeconfig.json
+F:\codeP2\CampAccessParents\CampAccessParents\bin\Debug\net6.0\CampAccessParents.dll
+F:\codeP2\CampAccessParents\CampAccessParents\bin\Debug\net6.0\CampAccessParents.pdb
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.csproj.AssemblyReference.cache
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.AssemblyInfoInputs.cache
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.AssemblyInfo.cs
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.csproj.CoreCompileInputs.cache
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.dll
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\refint\CampAccessParents.dll
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.pdb
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\CampAccessParents.genruntimeconfig.cache
+F:\codeP2\CampAccessParents\CampAccessParents\obj\Debug\net6.0\ref\CampAccessParents.dll

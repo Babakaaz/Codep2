@@ -1,0 +1,15 @@
+F:\codeP2\gradeCalculator\gradeCalculator\bin\Debug\net6.0\gradeCalculator.exe
+F:\codeP2\gradeCalculator\gradeCalculator\bin\Debug\net6.0\gradeCalculator.deps.json
+F:\codeP2\gradeCalculator\gradeCalculator\bin\Debug\net6.0\gradeCalculator.runtimeconfig.json
+F:\codeP2\gradeCalculator\gradeCalculator\bin\Debug\net6.0\gradeCalculator.dll
+F:\codeP2\gradeCalculator\gradeCalculator\bin\Debug\net6.0\gradeCalculator.pdb
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.csproj.AssemblyReference.cache
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.AssemblyInfoInputs.cache
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.AssemblyInfo.cs
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.csproj.CoreCompileInputs.cache
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.dll
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\refint\gradeCalculator.dll
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.pdb
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\gradeCalculator.genruntimeconfig.cache
+F:\codeP2\gradeCalculator\gradeCalculator\obj\Debug\net6.0\ref\gradeCalculator.dll

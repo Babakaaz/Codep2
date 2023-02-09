@@ -1,0 +1,15 @@
+F:\codeP2\Kulatz\Kulatz\bin\Debug\net6.0\Kulatz.exe
+F:\codeP2\Kulatz\Kulatz\bin\Debug\net6.0\Kulatz.deps.json
+F:\codeP2\Kulatz\Kulatz\bin\Debug\net6.0\Kulatz.runtimeconfig.json
+F:\codeP2\Kulatz\Kulatz\bin\Debug\net6.0\Kulatz.dll
+F:\codeP2\Kulatz\Kulatz\bin\Debug\net6.0\Kulatz.pdb
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.csproj.AssemblyReference.cache
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.AssemblyInfoInputs.cache
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.AssemblyInfo.cs
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.csproj.CoreCompileInputs.cache
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.dll
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\refint\Kulatz.dll
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.pdb
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\Kulatz.genruntimeconfig.cache
+F:\codeP2\Kulatz\Kulatz\obj\Debug\net6.0\ref\Kulatz.dll

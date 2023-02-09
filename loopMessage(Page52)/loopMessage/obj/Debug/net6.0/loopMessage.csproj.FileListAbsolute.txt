@@ -1,0 +1,15 @@
+F:\codeP2\loopMessage\loopMessage\bin\Debug\net6.0\loopMessage.exe
+F:\codeP2\loopMessage\loopMessage\bin\Debug\net6.0\loopMessage.deps.json
+F:\codeP2\loopMessage\loopMessage\bin\Debug\net6.0\loopMessage.runtimeconfig.json
+F:\codeP2\loopMessage\loopMessage\bin\Debug\net6.0\loopMessage.dll
+F:\codeP2\loopMessage\loopMessage\bin\Debug\net6.0\loopMessage.pdb
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.csproj.AssemblyReference.cache
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.AssemblyInfoInputs.cache
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.AssemblyInfo.cs
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.csproj.CoreCompileInputs.cache
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.dll
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\refint\loopMessage.dll
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.pdb
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\loopMessage.genruntimeconfig.cache
+F:\codeP2\loopMessage\loopMessage\obj\Debug\net6.0\ref\loopMessage.dll

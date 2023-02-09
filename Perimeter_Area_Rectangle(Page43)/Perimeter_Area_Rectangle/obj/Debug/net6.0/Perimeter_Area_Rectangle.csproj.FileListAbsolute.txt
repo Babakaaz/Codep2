@@ -1,0 +1,15 @@
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\bin\Debug\net6.0\Perimeter_Area_Rectangle.exe
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\bin\Debug\net6.0\Perimeter_Area_Rectangle.deps.json
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\bin\Debug\net6.0\Perimeter_Area_Rectangle.runtimeconfig.json
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\bin\Debug\net6.0\Perimeter_Area_Rectangle.dll
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\bin\Debug\net6.0\Perimeter_Area_Rectangle.pdb
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.csproj.AssemblyReference.cache
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.AssemblyInfoInputs.cache
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.AssemblyInfo.cs
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.csproj.CoreCompileInputs.cache
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.dll
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\refint\Perimeter_Area_Rectangle.dll
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.pdb
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\Perimeter_Area_Rectangle.genruntimeconfig.cache
+F:\codeP2\Perimeter_Area_Rectangle\Perimeter_Area_Rectangle\obj\Debug\net6.0\ref\Perimeter_Area_Rectangle.dll

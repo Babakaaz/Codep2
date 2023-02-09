@@ -1,0 +1,15 @@
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\bin\Debug\net6.0\3NumbersCalculator.exe
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\bin\Debug\net6.0\3NumbersCalculator.deps.json
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\bin\Debug\net6.0\3NumbersCalculator.runtimeconfig.json
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\bin\Debug\net6.0\3NumbersCalculator.dll
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\bin\Debug\net6.0\3NumbersCalculator.pdb
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.csproj.AssemblyReference.cache
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.AssemblyInfoInputs.cache
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.AssemblyInfo.cs
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.csproj.CoreCompileInputs.cache
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.dll
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\refint\3NumbersCalculator.dll
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.pdb
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\3NumbersCalculator.genruntimeconfig.cache
+F:\codeP2\3NumbersCalculator\3NumbersCalculator\obj\Debug\net6.0\ref\3NumbersCalculator.dll

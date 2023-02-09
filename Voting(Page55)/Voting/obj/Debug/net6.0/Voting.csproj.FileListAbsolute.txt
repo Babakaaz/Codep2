@@ -1,0 +1,15 @@
+F:\codeP2\Voting\Voting\bin\Debug\net6.0\Voting.exe
+F:\codeP2\Voting\Voting\bin\Debug\net6.0\Voting.deps.json
+F:\codeP2\Voting\Voting\bin\Debug\net6.0\Voting.runtimeconfig.json
+F:\codeP2\Voting\Voting\bin\Debug\net6.0\Voting.dll
+F:\codeP2\Voting\Voting\bin\Debug\net6.0\Voting.pdb
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.csproj.AssemblyReference.cache
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.GeneratedMSBuildEditorConfig.editorconfig
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.AssemblyInfoInputs.cache
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.AssemblyInfo.cs
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.csproj.CoreCompileInputs.cache
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.dll
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\refint\Voting.dll
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.pdb
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\Voting.genruntimeconfig.cache
+F:\codeP2\Voting\Voting\obj\Debug\net6.0\ref\Voting.dll
